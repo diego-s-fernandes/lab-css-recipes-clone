@@ -1,0 +1,29 @@
+
+
+header {
+    font-family: Helvetica,;
+    background-image: url("../images/apple-pie.jpg");
+    background-size: cover;
+    background-position: center center;
+    padding: 250px 0;
+}
+
+body{
+    font-family: Arial;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-size: 64px;
+    font-weight: lighter;
+  }
+
+  img {
+    width: 30%;
+    display: block;
+    margin: 32px auto;
+  }
+
+  

@@ -10,7 +10,7 @@ header {
 
 body{
     font-family: Arial;
-    margin: 1,5;
+    margin: 1,2;
     font-size: 15px;
     line-height: 150%;
 }
@@ -19,9 +19,17 @@ header h1 {
     text-align: center;
     margin: 0;
     color: white;
-    font-size: 64px;
+    font-size: 70px;
     font-weight: lighter;
   }
+
+  h2{
+    color: rgb(11, 11, 134);
+   }
+
+  p {
+    margin:1;
+}
 
   img {
     width: 30%;
@@ -29,4 +37,9 @@ header h1 {
     margin: 32px auto;
   }
 
+  article.ingredients{
+    line-height: 2;
+  }
+
+ 
   
